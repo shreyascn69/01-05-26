@@ -1,7 +1,7 @@
 # print("hello world my self shreyas c n ")
 
 
-# print("hello \n world" , "i am good ")
+# print("hello \n world" , "i am god")
 
 # name = "shreyas"
 # age = 22
